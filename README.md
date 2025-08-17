@@ -1,5 +1,3 @@
-Bridging systems science, AI, and equitable public health for smarter, fairer health futures.
-
 # About Me
 I’m an interdisciplinary analyst applying AI, statistical inference and systems thinking to complex health challenges. My work spans:
 * Computational biology & multi-omics analysis (e.g., gene expression, biomarker discovery)
