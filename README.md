@@ -1,13 +1,29 @@
 # About Me
-I’m an interdisciplinary analyst applying AI, statistical inference and systems thinking to complex health challenges. My work spans:
-* Computational biology & multi-omics analysis (e.g., gene expression, biomarker discovery)
-* Machine learning & simulation for behaviour prediction, health misinformation, and triage
-* Health equity, qualitative synthesis, and policy-relevant modelling
-* Human-centered design and decision support for health systems
+I'm an interdisciplinary analyst working at the intersection of AI, statistical inference, and systems thinking to solve complex health challenges. My work spans:
 
-I prioritise reproducible, open science, with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.
+* Computational Biology & Bioinformatics
+Gene expression analysis, biomarker discovery and multi-omics integration (e.g., PCA, clustering and survival analysis)
+* Machine Learning & Explainability
+Risk stratification, neural networks, Bayesian models, fairness audits, algorithmic bias mitigation and XAI tools
+* Health Equity & Policy Modelling
+Decision theory, scenario forecasting, game-theoretic simulations for public health systems and misinformation dynamics
+* Digital Behaviour & Influence Analysis
+Social network modelling, misinformation tracing, agent-based simulation of digital health behaviour
+* Human-Centered Decision Support
+Tools for triage, prioritisation, and uncertainty-aware forecasting in clinical and population health contexts
 
-# Featured Projects
+## Tools & Technologies
+* Languages: Python, R, SQL and STATA
+* Libraries: Pandas, Scikit-learn, PyTorch, NumPy, ggplot2 and limma
+* Statistical Techniques: PCA, regression, ROC, Monte Carlo simulation, survival analysis
+* ML/AI: Bayesian models, neural networks, forecast modelling and risk classification
+* Simulation & Modelling: Multi-agent models, system dynamics and decision/game theory
+* Data Tools: Tableau, Power BI, SPSS, NVivo, Git, Excel VBA and AWS
+* Workflow: JIRA, Confluence, Agile (Scrum/Kanban) and PDSA
+
+I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.
+
+## Featured Projects
 * Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach/: PCA, clustering & biomarker discovery in colorectal cancer
 * Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qualitative-Review/: Systematic review on ethnic disparities in ART access across Africa & Europe
 * Gift-Triggered-Health-Info-Contagion-Simulation/: Agent-based simulation + ML modeling of health info spread & ideology on social platforms
