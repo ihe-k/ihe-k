@@ -27,7 +27,7 @@ I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS,
 * Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach/: PCA, clustering & biomarker discovery in colorectal cancer
 * Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qualitative-Review/: Systematic review on ethnic disparities in ART access across Africa & Europe
 * Gift-Triggered-Health-Info-Contagion-Simulation/: Agent-based simulation + ML modeling of health info spread & ideology on social platforms
-* Pneumonia/: NLP + ML + X-ray classification + misinformation-driven behavior simulation
+* Pneumonia/: NLP,ML, X-ray classification and misinformation-driven behavior simulation
 * Cognitive_AI_Triage/: Multimodal severity prediction and game-theoretic prioritisation for neurological disorders
 
 # Technical Tools:
