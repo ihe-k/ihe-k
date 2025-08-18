@@ -1,4 +1,4 @@
-# Health Systems AI Portfolio
+# Health Systems Portfolio
 
 This portfolio showcases projects at the intersection of artificial intelligence, behavioural science and health systems. It demonstrates technical depth, social impact and systems-level thinking.
 
