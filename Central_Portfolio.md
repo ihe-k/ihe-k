@@ -1,41 +1,41 @@
 # Health Systems AI Portfolio
 
-Welcome! This portfolio showcases projects at the intersection of artificial intelligence, behavioural science and health systems. It demonstrates technical depth, social impact, and systems-level thinking.
+This portfolio showcases projects at the intersection of artificial intelligence, behavioural science and health systems. It demonstrates technical depth, social impact and systems-level thinking.
 
 ## Project Index
 
 ### 1. Gene Expression & Clustering in Colorectal Cancer
-📁 [`gene-expression-crc`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach)
+📁 [`Gene-Expression-CRC`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach)
 > Dimensionality reduction and clustering of patient subtypes using ΔΔCt gene expression data.  
-> Tools: PCA, MDS, bootstrapping, SPSS and R  
-> Relevance: Precision oncology & biomarker discovery
+> Tools: PCA, MDS, logistic regression, bootstrapping, SPSS and R  
+> Relevance: Precision oncology and biomarker discovery
 
 ### 2. ART Access & Health Equity (Systematic Review)
-📁 [`art-access-review`](./art-access-review/)
+📁 [`ART-Access-Review`](https://github.com/ihe-k/Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qual-Systematic-Review)
 > Thematic synthesis of qualitative studies on infertility care access across Europe and Africa.  
 > Methods: CASP, PRISMA and intersectional health equity analysis  
-> Relevance: Health systems planning & inclusive service design
+> Relevance: Health systems planning and inclusive service design
 
 ### 3. Social Contagion & Gift-Based Health Behavior Simulation
-📁 [`health-info-contagion`](./health-info-contagion/)
-> Predicting health info sharing using Random Forests & social network simulation.  
-> Real-time visualization, agent behavior, and reward-driven interventions.  
+📁 [`Health-Info-Contagion-GBHB_Simulation`]((https://github.com/ihe-k/Gift-Triggered-Health-Info-Contagion-Simulation)
+> Predicting health info sharing using Random Forests and social network simulation.  
+> Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns
 
 ### 4. Pneumonia Risk & Misinformation ABM
-📁 [`pneumonia-risk-simulation`](./pneumonia-risk-simulation/)
-> ML & NLP pipeline for pneumonia detection and agent-based simulation of misinformation impact.  
+📁 [`Pneumonia-Risk-Simulation`](https://github.com/ihe-k/Pneumonia)
+> ML and NLP pipeline for pneumonia detection and agent-based simulation of misinformation impact.  
 > Components: Logistic Regression, misinformation scoring and care-seeking simulation
 
 ### 5. Cognitive Impairment Risk & Resource Allocation
-📁 [`cognitive-impairment-prediction`](./cognitive-impairment-prediction/)
+📁 [`Cognitive-Impairment-Prediction`](cognitive-impairment-prediction/](https://github.com/ihe-k/Cognitive_AI_Triage)
 > Multimodal ML, SHAP/LIME, game theory for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings
 
 ---
 
-## 🌍 Themes Across Projects
+## Themes Across Projects
 
 - **Health Equity:** Gender-aware design, underrepresented groups and access inequities/barriers  
 - **AI for Public Good:** Misinformation mitigation, disease prevention and trust-driven modeling  
