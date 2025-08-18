@@ -33,5 +33,22 @@ I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS,
 # Technical Tools:
 R, Python, SPSS, limma, ggplot2, PCA, clustering, thematic synthesis, bootstrapping, LaTeX, Markdown, Git, Qualtrics, NVivo
 
+# Certifications & Training:
+- **AI & Statistics**:  
+  - Game Theory – Stanford University (2025)  
+  - Bayesian Statistics – UC Santa Cruz (2025)  
+  - Bias & Discrimination in AI – Université de Montréal / Microsoft (2025)  
+  - Data Scientist Professional - Data Camp (2025)
+  - AI Development - Data Camp (2024)  
+  - Python for Scientists - Royal Society of Chemistry (2023)  
+- **Public Health & Social Analysis**:  
+  - Public Health Analyst Programme (2022)  
+  - Applied Social Network Analysis – University of Michigan (2025)  
+  - Statistical Methods for Public Health - Public Health England (2009)  
+- **Technical Foundations**:  
+  - Accelerated SQL Server Integration Services (2013)  
+  - Excel VBA (2009)
+- **Project Management**: PMP, PMI-ACP, PSM (2025)  
+
 # Interests
 Health Systems Modeling • Causal Inference • Bioinformatics • Public Health AI • Human Behavior Simulation • Explainable AI • Equity & Ethics • Tech for Social Impact
