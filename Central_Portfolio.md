@@ -5,7 +5,7 @@ Welcome! This portfolio showcases projects at the intersection of artificial int
 ## Project Index
 
 ### 1. Gene Expression & Clustering in Colorectal Cancer
-📁 [`gene-expression-crc`]([https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach])
+📁 [`gene-expression-crc`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach)
 > Dimensionality reduction and clustering of patient subtypes using ΔΔCt gene expression data.  
 > Tools: PCA, MDS, bootstrapping, SPSS and R  
 > Relevance: Precision oncology & biomarker discovery
