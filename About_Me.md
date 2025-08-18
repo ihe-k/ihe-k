@@ -31,9 +31,7 @@ I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS,
 * Cognitive_AI_Triage/: Multimodal severity prediction and game-theoretic prioritisation for neurological disorders
 
 # Technical Tools:
-R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics  
-limma, ggplot2, PCA, logistic regression, clustering, bootstrapping  
-Thematic synthesis, statistical inference, data visualisation
+R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, logistic regression, clustering, bootstrapping, thematic synthesis, statistical inference and data visualisation
 
 # Certifications & Training:
 - **AI & Statistics**:  
