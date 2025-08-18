@@ -17,7 +17,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Relevance: Health systems planning and inclusive service design
 
 ### 3. Social Contagion & Gift-Based Health Behavior Simulation
-📁 [`Health-Info-Contagion-GBHB_Simulation`]((https://github.com/ihe-k/Gift-Triggered-Health-Info-Contagion-Simulation)
+📁 [`Health-Info-Contagion-GBHB_Simulation`](https://github.com/ihe-k/Gift-Triggered-Health-Info-Contagion-Simulation)
 > Predicting health info sharing using Random Forests and social network simulation.  
 > Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns
@@ -28,7 +28,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Components: Logistic Regression, misinformation scoring and care-seeking simulation
 
 ### 5. Cognitive Impairment Risk & Resource Allocation
-📁 [`Cognitive-Impairment-Prediction`](cognitive-impairment-prediction/](https://github.com/ihe-k/Cognitive_AI_Triage)
+📁 [`Cognitive-Impairment-Prediction`](https://github.com/ihe-k/Cognitive_AI_Triage)
 > Multimodal ML, SHAP/LIME, game theory for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings
