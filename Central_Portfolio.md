@@ -1,11 +1,11 @@
-# 🧠 Health Systems AI Portfolio
+# Health Systems AI Portfolio
 
 Welcome! This portfolio showcases projects at the intersection of artificial intelligence, behavioural science and health systems. It demonstrates technical depth, social impact, and systems-level thinking.
 
 ## Project Index
 
 ### 1. Gene Expression & Clustering in Colorectal Cancer
-📁 [`gene-expression-crc`](./gene-expression-crc/)
+📁 [`gene-expression-crc`]([https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach])
 > Dimensionality reduction and clustering of patient subtypes using ΔΔCt gene expression data.  
 > Tools: PCA, MDS, bootstrapping, SPSS and R  
 > Relevance: Precision oncology & biomarker discovery
