@@ -33,6 +33,8 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings
 
+### 6.Modelling the Spread of Health Misinformation in Gendered Digital Environments
+📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
 ---
 
 ## Themes Across Projects
