@@ -34,7 +34,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Relevance: AI for decision support in resource-constrained settings
 
 ### 6.Modelling the Spread of Health Misinformation in Gendered Digital Environments
-📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`]([https://github.com/ihe-k/Cognitive_AI_Triage](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments))
+📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`]([https://github.com/ihe-k/Cognitive_AI_Triage](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
 > Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 
