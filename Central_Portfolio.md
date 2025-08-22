@@ -16,8 +16,8 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Methods: CASP, PRISMA and intersectional health equity analysis  
 > Relevance: Health systems planning and inclusive service design
 
-### 3. Social Contagion & Gift-Based Health Behavior Simulation
-📁 [`Health-Info-Contagion-GBHB_Simulation`](https://github.com/ihe-k/Gift-Triggered-Health-Info-Contagion-Simulation)
+### 3. Social-Contagion-Gift-Giving-Simulation
+📁 [`Social-Contagion-Gift-Giving-Simulation`](https://github.com/ihe-k/Social-Contagion-Gift-Giving-Simulation)
 > Predicting health info sharing using Random Forests and social network simulation.  
 > Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns
