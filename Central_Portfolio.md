@@ -22,8 +22,8 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns
 
-### 4. Pneumonia Risk & Misinformation ABM
-📁 [`Pneumonia-Risk-Simulation`](https://github.com/ihe-k/Pneumonia)
+### 4. Pneumonia Risk & Misinformation on Health Seeking Behaviours
+📁 [`Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours`](https://github.com/ihe-k/Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours)
 > ML and NLP pipeline for pneumonia detection and agent-based simulation of misinformation impact.  
 > Components: Logistic Regression, misinformation scoring and care-seeking simulation
 
