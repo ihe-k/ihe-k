@@ -24,7 +24,7 @@ Tools for triage, prioritisation, and uncertainty-aware forecasting in clinical 
 I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.
 
 ## Featured Projects
-* Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach/: PCA, logistic regression, clustering & biomarker discovery in colorectal cancer
+* [`Multi-Omics Data Analysis of Biomarkers in Colorectal Cancer: A Systems Approach`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach): PCA, logistic regression, clustering & biomarker discovery in colorectal cancer
 * Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qualitative-Review/: Systematic review on ethnic disparities in ART access across Africa & Europe
 * Gift-Triggered-Health-Info-Contagion-Simulation/: Agent-based simulation + ML modeling of health info spread & ideology on social platforms
 * Pneumonia/: NLP,ML, X-ray classification and misinformation-driven behavior simulation
