@@ -34,7 +34,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Multimodal ML, SHAP/LIME, game theory for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings  
-> [`App`](https://cognitiveaitriage0-9mygqymrcrmcqe3hzgt3wa.streamlit.app/)
+> [`App`](https://cognitiveaitriage-upcnmprvydp5bhgfjpox8k.streamlit.app/)
 
 ### 6.Modelling the Spread of Health Misinformation in Gendered Digital Environments
 📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
