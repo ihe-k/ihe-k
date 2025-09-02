@@ -21,22 +21,26 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Predicting health info sharing using Random Forests and social network simulation.  
 > Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns
+> [`App`](https://social-contagion-gift-giving-simulation-bys7mmnchm6xnad4tllzxs.streamlit.app/)
 
 ### 4. Pneumonia Risk & Misinformation on Health Seeking Behaviours
 📁 [`Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours`](https://github.com/ihe-k/Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours)
 > ML and NLP pipeline for pneumonia detection and agent-based simulation of misinformation impact.  
 > Components: Logistic Regression, misinformation scoring and care-seeking simulation
+> [`App`](https://pneumonia-risk-and-misinformation-impact-on-health-seeking-beh.streamlit.app/)
 
 ### 5. Cognitive Impairment Risk & Resource Allocation
 📁 [`Cognitive-Impairment-Prediction`](https://github.com/ihe-k/Cognitive_AI_Triage0)
 > Multimodal ML, SHAP/LIME, game theory for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings
+> [`App`](https://cognitiveaitriage0-9mygqymrcrmcqe3hzgt3wa.streamlit.app/)
 
 ### 6.Modelling the Spread of Health Misinformation in Gendered Digital Environments
 📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
 > Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
+> [`App`](https://social-contagion-gift-giving-simulation-bys7mmnchm6xnad4tllzxs.streamlit.app/)
 
 ---
 
