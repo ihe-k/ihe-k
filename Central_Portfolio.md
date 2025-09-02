@@ -31,7 +31,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 
 ### 5. Cognitive Impairment Risk & Resource Allocation
 📁 [`Cognitive-AI-Triage`](https://github.com/ihe-k/Cognitive_AI_Triage)
-> Multimodal ML, SHAP/LIME, game theory for triaging early cognitive decline  
+> Multimodal ML and SHAP/LIME for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings  
 > [`App`](https://cognitiveaitriage-upcnmprvydp5bhgfjpox8k.streamlit.app/)
