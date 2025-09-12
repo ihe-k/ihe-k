@@ -31,7 +31,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 
 ### 5. Cognitive Impairment Risk & Resource Allocation
 📁 [`Cognitive-AI-Triage`](https://github.com/ihe-k/Cognitive_AI_Triage)
-> Multimodal ML and SHAP/LIME for triaging early cognitive decline  
+> Multimodal ML and SHAP for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings  
 > [`App`](https://cognitiveaitriage-upcnmprvydp5bhgfjpox8k.streamlit.app/)
@@ -48,6 +48,6 @@ This portfolio showcases projects at the intersection of artificial intelligence
 - **Health Equity:** Gender-aware design, underrepresented groups and access inequities/barriers  
 - **AI for Public Good:** Misinformation mitigation, disease prevention and trust-driven modeling  
 - **Systems Thinking:** Interventions modelled across populations and feedback loops  
-- **Explainability & Fairness:** SHAP/LIME, transparent ML pipelines and human-centred evaluation
+- **Explainability & Fairness:** SHAP, transparent ML pipelines and human-centred evaluation
 
 ---
