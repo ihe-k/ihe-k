@@ -1,6 +1,6 @@
 # About Me
-I am an interdisciplinary statistician with a strong focus on leveraging AI, machine learning and advanced statistical methods to drive equitable, gender-sensitive healthcare access and policy reform, particularly for underserved populations. My work integrates predictive analytics, AI, and health policy to tackle complex challenges in health systems, including leading digital health transformation initiatives and developing decision-support tools and predictive models to inform healthcare strategies.
-My expertise spans statistical modelling, predictive analytics, simulation techniques and social network analysis. I specialise in health systems research, with a focus on policy evaluation, service design, and systems resilience—especially in low- and middle-income countries. I develop AI-powered tools that bridge technical innovation with health policy design, concentrating on chronic disease management, maternal and reproductive health, emergency care as well as community-based services. Additionally, I am deeply committed to advancing algorithmic fairness and employ game theory to understand the strategic behavior of health system actors within digital health ecosystems.
+I am an interdisciplinary statistician specialising in the use of AI, machine learning and advanced statistical methods to promote equitable, gender-sensitive healthcare access and policy reform, particularly for underserved populations. My research integrates predictive analytics, AI and health systems science to address complex healthcare challenges, with a focus on chronic disease management, maternal and reproductive health, emergency care as well as community-based services.
+With expertise spanning statistical modelling, predictive analytics, simulation techniques and social network analysis, I specialise in health systems research, policy evaluation, service design and systems resilience, particularly in low- and middle-income countries. I develop AI-driven tools and models that bridge technical innovation with health policy design, with a strong passion for advancing algorithmic fairness. I also apply game theory to explore the strategic behaviour of health system actors within digital health ecosystems
 
 My work spans:
 
@@ -29,7 +29,7 @@ Tools for triage, prioritisation and uncertainty-aware forecasting in clinical a
 * Data Tools: Tableau, Power BI, SPSS, NVivo, Git, Excel VBA and AWS
 * Workflow: JIRA, Confluence, Agile (Scrum/Kanban) and PDSA
 
-I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.
+I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.  In my independent research, I have led projects such as:
 
 ## Featured Projects
 * [`Multi-Omics Data Analysis of Biomarkers in Colorectal Cancer: A Systems Approach`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach): PCA, logistic regression, clustering & biomarker discovery in colorectal cancer
@@ -38,6 +38,8 @@ I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS,
 * [`Pneumonia`](https://github.com/ihe-k/Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours): NLP, ML, X-ray classification and misinformation-driven behavior simulation
 * [`Modelling the Spread of Health Misinformation in Gendered Digital Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments): Modelling the way misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 * [`Cognitive AI Triage`](https://github.com/ihe-k/Cognitive_AI_Triage): Multimodal severity prediction and game-theoretic prioritisation for neurological disorders
+
+These projects showcase my ability to apply innovative AI techniques to real-world health problems, with a focus on health equity, systems resilience and misinformation mitigation.
 
 # Technical Tools:
 R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, logistic regression, clustering, bootstrapping, thematic synthesis, statistical inference and data visualisation
