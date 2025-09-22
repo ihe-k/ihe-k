@@ -1,5 +1,5 @@
 # About Me
-I'm an interdisciplinary analyst working at the intersection of AI, statistical inference, and systems thinking to solve complex health challenges. My work spans:
+I'm an interdisciplinary analyst working at the intersection of AI, statistical inference and systems thinking to solve complex health challenges. My work spans:
 
 * Computational Biology & Bioinformatics
 Gene expression analysis, biomarker discovery and multi-omics integration (e.g., PCA, logistic regression, clustering and survival analysis)
