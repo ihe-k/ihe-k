@@ -1,15 +1,18 @@
 # About Me
-I'm an interdisciplinary analyst working at the intersection of AI, statistical inference and systems thinking to solve complex health challenges. My work spans:
+I am an interdisciplinary statistician with a strong focus on leveraging AI, machine learning and advanced statistical methods to drive equitable, gender-sensitive healthcare access and policy reform, particularly for underserved populations. My work integrates predictive analytics, AI, and health policy to tackle complex challenges in health systems, including leading digital health transformation initiatives and developing decision-support tools and predictive models to inform healthcare strategies.
+My expertise spans statistical modelling, predictive analytics, simulation techniques and social network analysis. I specialise in health systems research, with a focus on policy evaluation, service design, and systems resilience—especially in low- and middle-income countries. I develop AI-powered tools that bridge technical innovation with health policy design, concentrating on chronic disease management, maternal and reproductive health, emergency care as well as community-based services. Additionally, I am deeply committed to advancing algorithmic fairness and employ game theory to understand the strategic behavior of health system actors within digital health ecosystems.
 
-* Computational Biology & Bioinformatics  
+My work spans:
+
+* **Computational Biology & Bioinformatics**  
 Gene expression analysis, biomarker discovery and multi-omics integration (e.g., PCA, logistic regression, clustering and survival analysis)
-* Machine Learning & Explainability  
+* **Machine Learning & Explainability**  
 Risk stratification, neural networks, Bayesian models, fairness audits, algorithmic bias mitigation and XAI tools
-* Health Equity & Policy Modelling  
+* **Health Equity & Policy Modelling**  
 Decision theory, scenario forecasting, game-theoretic simulations for public health systems and misinformation dynamics
-* Digital Behaviour & Influence Analysis  
+* **Digital Behaviour & Influence Analysis**  
 Social network modelling, misinformation tracing, agent-based simulation of digital health behaviour
-* Human-Centered Decision Support  
+* **Human-Centered Decision Support**  
 Tools for triage, prioritisation and uncertainty-aware forecasting in clinical and population health contexts
 
 ## Education
@@ -54,7 +57,8 @@ R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, lo
 - **Technical Foundations**:  
   - Accelerated SQL Server Integration Services (2013)  
   - Excel VBA (2009)
-- **Project Management**: PMP, PMI-ACP, PSM (2025)  
+- **Project Management**:
+  - PMP, PMI-ACP, PSM (2025)  
 
 # Interests
 Health Systems Modelling • Chronic Disease Management • Evidence-Based Health Care • Causal Inference • Machine Learning • Game Theory & Decision Analysis • Bioinformatics • Public Health AI • Human Behaviour Simulation • Explainable AI • Gender Equity in Health • Tech for Social Impact
