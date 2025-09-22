@@ -1,15 +1,15 @@
 # About Me
 I'm an interdisciplinary analyst working at the intersection of AI, statistical inference and systems thinking to solve complex health challenges. My work spans:
 
-* Computational Biology & Bioinformatics
+* Computational Biology & Bioinformatics  
 Gene expression analysis, biomarker discovery and multi-omics integration (e.g., PCA, logistic regression, clustering and survival analysis)
-* Machine Learning & Explainability
+* Machine Learning & Explainability  
 Risk stratification, neural networks, Bayesian models, fairness audits, algorithmic bias mitigation and XAI tools
-* Health Equity & Policy Modelling
+* Health Equity & Policy Modelling  
 Decision theory, scenario forecasting, game-theoretic simulations for public health systems and misinformation dynamics
-* Digital Behaviour & Influence Analysis
+* Digital Behaviour & Influence Analysis  
 Social network modelling, misinformation tracing, agent-based simulation of digital health behaviour
-* Human-Centered Decision Support
+* Human-Centered Decision Support  
 Tools for triage, prioritisation, and uncertainty-aware forecasting in clinical and population health contexts
 
 ## Education
