@@ -12,6 +12,11 @@ Social network modelling, misinformation tracing, agent-based simulation of digi
 * Human-Centered Decision Support
 Tools for triage, prioritisation, and uncertainty-aware forecasting in clinical and population health contexts
 
+## Education
+* Master of Science in Evidence-Based Health Care (University of Oxford)
+* Master of Science in Biochemical Engineering (University College London)
+* Bachelor of Science in Biology (University College London)
+
 ## Tools & Technologies
 * Languages: Python, R, SQL and STATA
 * Libraries: Pandas, Scikit-learn, PyTorch, NumPy, ggplot2 and limma
