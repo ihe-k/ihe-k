@@ -57,4 +57,4 @@ R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, lo
 - **Project Management**: PMP, PMI-ACP, PSM (2025)  
 
 # Interests
-Health Systems Modeling • Causal Inference • Bioinformatics • Public Health AI • Human Behaviour Simulation • Explainable AI • Equity & Ethics • Tech for Social Impact
+Health Systems Modelling • Chronic Disease Management • Evidence-Based Health Care • Causal Inference • Machine Learning • Game Theory & Decision Analysis • Bioinformatics • Public Health AI • Human Behaviour Simulation • Explainable AI • Gender Equity in Health • Tech for Social Impact
