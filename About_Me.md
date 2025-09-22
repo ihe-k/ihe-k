@@ -10,7 +10,7 @@ Decision theory, scenario forecasting, game-theoretic simulations for public hea
 * Digital Behaviour & Influence Analysis  
 Social network modelling, misinformation tracing, agent-based simulation of digital health behaviour
 * Human-Centered Decision Support  
-Tools for triage, prioritisation, and uncertainty-aware forecasting in clinical and population health contexts
+Tools for triage, prioritisation and uncertainty-aware forecasting in clinical and population health contexts
 
 ## Education
 * Master of Science in Evidence-Based Health Care (University of Oxford)
