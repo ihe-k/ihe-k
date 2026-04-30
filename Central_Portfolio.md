@@ -44,7 +44,13 @@ This portfolio showcases projects at the intersection of artificial intelligence
 ### 7. Fire and Rescue Incident Statistics (YE December 2025)
 📁 [`Fire-and-Rescue-Incident-Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire-and-Rescue-Incident-Statistics.md)
 > Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
-> Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
+> Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
+
+### 7. Fire and Rescue Incident Statistics (YE December 2025)
+📁 [`Fire-and-Rescue-Incident-Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire-and-Rescue-Incident-Statistics.md)
+> Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
+> Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
+
 ---
 
 ## Themes Across Projects
