@@ -47,7 +47,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
 
 ### 8. Carbon Monoxide Incidents in the UK (2012–2024)
-📁 [`CO-Incidents-in-the-UK`](https://github.com/ihe-k/Publications/blob/main/CO-Incidents_in_the_UK.md)
+📁 [`CO-Incidents-in-the-UK`](https://github.com/ihe-k/Publications/blob/main/CO-Incidents-in-the-UK.md)
 > Analysis of incident trends over time, breakdown by dwelling type, cause and severity, geographical distribution insights
 > Relevance: This publication provides updated statistics on data analysis related to carbon monoxide (CO) incidents in the United Kingdom
 from 2012 to 2024.
