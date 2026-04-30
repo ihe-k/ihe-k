@@ -42,7 +42,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 
 ### 7. Fire and Rescue Incident Statistics (YE December 2025)
-📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Publications/blob/main/Fire%20and%20Rescue%20Incident%20Statistics.md))
+📁 [`Fire and Rescue Incident Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire%20and%20Rescue%20Incident%20Statistics.md))
 > Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 ---
