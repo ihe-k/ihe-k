@@ -61,7 +61,7 @@ R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, lo
 - **Project Management**:
   - PMP, PMI-ACP, PSM (2025)  
 
-# Publications
+# [Publications](https://github.com/ihe-k/Publications/blob/main/README.md)
 
 * [Carbon Monoxide Incidents in the UK (2012–2024)](https://github.com/ihe-k/Publications/blob/main/CO-Incidents-in-the-UK.md): This repository contains data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2024. Key insights include incident trends, dwelling type breakdowns and geographical distribution for public health as well as safety recommendations.
 * [Fire and Rescue Incident Statistics (YE December 2025)](https://github.com/ihe-k/Publications/blob/main/Fire-and-Rescue-Incident-Statistics.md): Provides up-to-date statistics on fire incidents, casualties, false alarms and operational patterns in England. Includes detailed categories such as types of fires, response times and casualty data (data is updated quarterly).
