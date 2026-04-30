@@ -46,10 +46,10 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
 > Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
 
-### 7. Fire and Rescue Incident Statistics (YE December 2025)
-📁 [`Fire-and-Rescue-Incident-Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire-and-Rescue-Incident-Statistics.md)
-> Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
-> Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
+### 7. Carbon Monoxide Incidents in the UK (2012–2024)
+📁 [`CO-Incidents-in-the-UK`](https://github.com/ihe-k/Publications/blob/main/CO-Incidents_in_the_UK.md)
+> Analysis of incident trends over time, breakdown by dwelling type, cause and severity, geographical distribution insights
+> Relevance: This publication provides updated statistics on data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2024.
 
 ---
 
