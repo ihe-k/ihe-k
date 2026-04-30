@@ -1,4 +1,4 @@
-# Health Systems Portfolio
+# Public Health Systems and Public Safety Portfolio
 
 This portfolio showcases projects at the intersection of artificial intelligence, behavioural science and health systems. It demonstrates technical depth, social impact and systems-level thinking.
 
@@ -41,6 +41,10 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 
+### 7. 
+📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
+> Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
+> Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 ---
 
 ## Themes Across Projects
