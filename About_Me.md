@@ -63,6 +63,10 @@ R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, lo
 
 # Publications
 
+* Carbon Monoxide Incidents in the UK (2012–2024): This repository contains data analysis related to carbon monoxide (CO) incidents in the United Kingdom from 2012 to 2024. Key insights include incident trends, dwelling type breakdowns and geographical distribution for public health as well as safety recommendations.
+* Fire and Rescue Incident Statistics (YE December 2025): Provides up-to-date statistics on fire incidents, casualties, false alarms and operational patterns in England. Includes detailed categories such as types of fires, response times and casualty data (data is updated quarterly).
+* Therapeutic Antibodies in Cancer Treatment in the UK: A comprehensive overview of approved monoclonal antibody therapies used in UK cancer treatments, covering mechanisms, targets, clinical applications and recent developments in immunotherapy.
+* Turning Knowledge into Action (K2A): A guidance framework developed to improve policy and decision-making through effective data use. It includes principles, cycle stages, core activities and practical tips for engaging stakeholders and communicating effectively.
 
 # Interests
 Health Systems Modelling • Chronic Disease Management • Evidence-Based Health Care • Causal Inference • Machine Learning • Game Theory & Decision Analysis • Bioinformatics • Public Health AI • Human Behaviour Simulation • Explainable AI • Gender Equity in Health • Tech for Social Impact
