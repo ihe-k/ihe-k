@@ -42,7 +42,7 @@ This portfolio showcases projects at the intersection of artificial intelligence
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 
 ### 7. Fire and Rescue Incident Statistics (YE December 2025)
-📁 [`Fire and Rescue Incident Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire%20and%20Rescue%20Incident%20Statistics.md))
+📁 [`Fire-and-Rescue-Incident-Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire%20and%20Rescue%20Incident%20Statistics.md))
 > Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 ---
