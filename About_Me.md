@@ -31,6 +31,7 @@ Tools for triage, prioritisation and uncertainty-aware forecasting in clinical a
 I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS, LaTeX, Git and NVivo.  In my independent research, I have led projects such as:
 
 ## Featured Projects
+*[`Auracare: Multimodal Vocal & Cognitive Health Screening`](https://github.com/ihe-k/auracare): Real-time vocal biomarker analysis, cognitive fluency tracking and depression screening oriented toward early Alzheimer's and MCI triage, featuring WebRTC-based VAD audio pipelines, custom state machine UI transitions and UK clinical triage routing
 * [`Multi-Omics Data Analysis of Biomarkers in Colorectal Cancer: A Systems Approach`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach): PCA, logistic regression, clustering & biomarker discovery in colorectal cancer
 * [`Barriers and Patient Experiences Across Ethnicities in Africa and Europe Qualitative Review`](https://github.com/ihe-k/Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qual-Systematic-Review): Systematic review on ethnic disparities in ART access across Africa & Europe
 * [`Gift Triggered Health Information Contagion Simulation`](https://github.com/ihe-k/Social-Contagion-Gift-Giving-Simulation): Agent-based simulation + ML modeling of health info spread & ideology on social platforms
