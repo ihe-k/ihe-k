@@ -4,55 +4,62 @@ This portfolio showcases projects at the intersection of artificial intelligence
 
 ## Project Index
 
-### 1. Gene Expression & Clustering in Colorectal Cancer
+### 1. Auracare: Multimodal Vocal & Cognitive Health Screening
+📁 [`Auracare`](https://github.com/ihe-k/auracare)
+> Real-time vocal biomarker analysis, cognitive fluency tracking, and depression screening oriented toward early Alzheimer's and MCI triage.
+> Tools: Python, Streamlit, WebRTC (VAD), acoustic feature extraction, PHQ-8 scoring and UK clinical triage routing
+> Relevance: Early neurodegenerative and mental health screening, remote patient monitoring and safe clinical escalation
+App
+
+### 2. Gene Expression & Clustering in Colorectal Cancer
 📁 [`Gene-Expression-CRC`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach)
 > Dimensionality reduction and clustering of patient subtypes using ΔΔCt gene expression data.  
 > Tools: PCA, MDS, logistic regression, bootstrapping, SPSS and R  
 > Relevance: Precision oncology and biomarker discovery
 
-### 2. ART Access & Health Equity (Systematic Review)
+### 3. ART Access & Health Equity (Systematic Review)
 📁 [`ART-Access-Review`](https://github.com/ihe-k/Barriers-and-Patient-Experiences-Across-Ethnicities-in-Africa-and-Europe-Qual-Systematic-Review)
 > Thematic synthesis of qualitative studies on infertility care access across Europe and Africa.  
 > Methods: CASP, PRISMA and intersectional health equity analysis  
 > Relevance: Health systems planning and inclusive service design
 
-### 3. Social-Contagion-Gift-Giving-Simulation
+### 4. Social-Contagion-Gift-Giving-Simulation
 📁 [`Social-Contagion-Gift-Giving-Simulation`](https://github.com/ihe-k/Social-Contagion-Gift-Giving-Simulation)
 > Predicting health info sharing using Random Forests and social network simulation.  
 > Real-time visualization, agent behavior and reward-driven interventions.  
 > Relevance: Public health communications, misinformation mitigation and digital health campaigns  
 > [`App`](https://social-contagion-gift-giving-simulation-bys7mmnchm6xnad4tllzxs.streamlit.app/)
 
-### 4. Pneumonia Risk & Misinformation on Health Seeking Behaviours
+### 5. Pneumonia Risk & Misinformation on Health Seeking Behaviours
 📁 [`Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours`](https://github.com/ihe-k/Pneumonia-Risk-and-Misinformation-Impact-on-Health-Seeking-Behaviours)
 > ML and NLP pipeline for pneumonia detection and agent-based simulation of misinformation impact.  
 > Components: Logistic Regression, misinformation scoring and care-seeking simulation  
 > [`App`](https://pneumonia-risk-and-misinformation-impact-on-health-seeking-beh.streamlit.app/)
 
-### 5. Cognitive Impairment Risk & Resource Allocation
+### 6. Cognitive Impairment Risk & Resource Allocation
 📁 [`Cognitive-AI-Triage`](https://github.com/ihe-k/Cognitive_AI_Triage)
 > Multimodal ML and SHAP for triaging early cognitive decline  
 > Modalities: Audio, simulated biometrics and neuroimaging embeddings  
 > Relevance: AI for decision support in resource-constrained settings  
 > [`App`](https://cognitiveaitriage-upcnmprvydp5bhgfjpox8k.streamlit.app/)
 
-### 6. Modelling the Spread of Health Misinformation in Gendered Digital Environments
+### 7. Modelling the Spread of Health Misinformation in Gendered Digital Environments
 📁 [`Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments`](https://github.com/ihe-k/Modelling-the-Spread-of-Health-Misinformation-in-Gendered-Digital-Environments)
 > Network-based agent modeling, time-series data analysis, data normalisation and visualisation using Python, NetworkX, Matplotlib, Numpy, Scipy 
 > Relevance: Understanding how misinformation spreads differently between genders and the role of fact-checking in combating it in digital health communications
 
-### 7. Fire and Rescue Incident Statistics (YE December 2025)
+### 8. Fire and Rescue Incident Statistics (YE December 2025)
 📁 [`Fire-and-Rescue-Incident-Statistics`](https://github.com/ihe-k/Publications/blob/main/Fire-and-Rescue-Incident-Statistics.md)
 > Data aggregation and summarisation using SQL, R and MS Excel, Geographic mapping of incident locations using R
 > Relevance: This publication provides updated statistics on trends in fires, casualties, false alarms, and non-fire incidents attended by fire and rescue services in England. The data is refreshed quarterly, offering valuable insights into operational patterns and public safety.
 
-### 8. Carbon Monoxide Incidents in the UK (2012–2024)
+### 9. Carbon Monoxide Incidents in the UK (2012–2024)
 📁 [`CO-Incidents-in-the-UK`](https://github.com/ihe-k/Publications/blob/main/CO-Incidents-in-the-UK.md)
 > Analysis of incident trends over time, breakdown by dwelling type, cause and severity, geographical distribution insights
 > Relevance: This publication provides updated statistics on data analysis related to carbon monoxide (CO) incidents in the United Kingdom
 from 2012 to 2024.
 
-### 9. Turning Knowledge into Action
+### 10. Turning Knowledge into Action
 📁 [`Turning-Knowledge-into-Action`](https://github.com/ihe-k/Publications/blob/main/Turning-Knowledge-into-Action.md)  
 > Literature review and development of e-learning modules  
 > Relevance: "Turning Knowledge into Action" (K2A) is a guidance framework developed by the Office for Health Improvement and Disparities (OHID) to enhance policy and decision-making through effective use of data and evidence. It aims to bridge the gap between data and action by presenting information in accessible formats, providing context and linking to wider knowledge sources.
