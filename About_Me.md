@@ -42,7 +42,7 @@ I prioritise reproducible, open science with tools spanning Python, R, IBM SPSS,
 These projects showcase my ability to apply innovative AI techniques to real-world health problems, with a focus on health equity, systems resilience and misinformation mitigation.
 
 # Technical Tools:
-R, Python, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, logistic regression, clustering, bootstrapping, thematic synthesis, statistical inference and data visualisation
+R, Python, Streamlit, WebRTC, audio signal processing / acoustic feature extraction, SPSS, NVivo, Git, LaTeX, Markdown, Qualtrics, limma, ggplot2, PCA, logistic regression, clustering, bootstrapping, thematic synthesis, statistical inference and data visualisation
 
 # Certifications & Training:
 - **AI & Statistics**:  
