@@ -6,10 +6,9 @@ This portfolio showcases projects at the intersection of artificial intelligence
 
 ### 1. Auracare: Multimodal Vocal & Cognitive Health Screening
 📁 [`Auracare`](https://github.com/ihe-k/auracare)
-> Real-time vocal biomarker analysis, cognitive fluency tracking, and depression screening oriented toward early Alzheimer's and MCI triage.
-> Tools: Python, Streamlit, WebRTC (VAD), acoustic feature extraction, PHQ-8 scoring and UK clinical triage routing
-> Relevance: Early neurodegenerative and mental health screening, remote patient monitoring and safe clinical escalation
-App
+> Real-time vocal biomarker analysis, cognitive fluency tracking, and depression screening oriented toward early Alzheimer's and MCI triage.  
+> Tools: Python, Streamlit, WebRTC (VAD), acoustic feature extraction, PHQ-8 scoring and UK clinical triage routing. 
+> Relevance: Early neurodegenerative and mental health screening, remote patient monitoring and safe clinical escalation. 
 
 ### 2. Gene Expression & Clustering in Colorectal Cancer
 📁 [`Gene-Expression-CRC`](https://github.com/ihe-k/Multi-Omics-Data-Analysis-of-Biomarkers-in-Colorectal-Cancer-A-Systems-Approach)
